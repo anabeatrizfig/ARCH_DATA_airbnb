@@ -1,5 +1,5 @@
 # CODE TOGETHER ARCH_DATA
-![ARCH_DATA](image/ARCH_DATA.png =250x250)
+![ARCH_DATA](image/ARCH_DATA_250.png)
 
 ## Data:
 [a relative link](/data/AB_NYC_2019.csv)
