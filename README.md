@@ -17,3 +17,5 @@ What can we learn from __PRICES__ predictions?
 4) Modeling
 5) Evaluation
 6) Deployment
+
+![kepler.gl](image/kepler.JPG)
